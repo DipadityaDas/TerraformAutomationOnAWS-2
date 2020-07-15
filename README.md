@@ -12,4 +12,4 @@
 
 > *Terraform works with over **160** different providers for a broad set of common infrastructure. Provider SDK makes it simple to create new and custom providers. Providers leverage infrastructure-specific APIs to preserve unique capabilities for each provider.*
 
-For more information goto this [article.]()
+For more information goto this [article.](https://medium.com/@dipadityadas/infrastructure-as-code-using-terraform-on-aws-cloud-using-efs-instead-of-ebs-99ac35f57c89)
